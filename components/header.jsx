@@ -20,7 +20,7 @@ export default function Header() {
       <nav className="container mx-auto px-4 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2 ml-[-64px]">
           <Image
-            src={"/logos/logo.jpeg"}
+            src={"/logos/logo.png"}
             alt="Vehiql Logo"
             width={200}
             height={60}
